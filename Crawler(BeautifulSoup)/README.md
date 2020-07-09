@@ -1,11 +1,11 @@
-<h2>A small investigation of crawling a simple web page with with music live show dates using basics of BeautifulSoup and Pandas.</h2>
+<h2>A small investigation: crawling a simple web page with music live tour dates using basics of BeautifulSoup and Pandas.</h2>
 
-Before processing:
+<h3>Before processing:</h3>
 <p align="center">
   <img src="https://github.com/LostWitness/DSPractice/blob/master/Crawler(BeautifulSoup)/002_pas.png?raw=true">
 </p>
 
-After processing:
+<h3>After processing:</h3>
 <p align="center">
   <img src="https://github.com/LostWitness/DSPractice/blob/master/Crawler(BeautifulSoup)/001_pas.png?raw=true">
 </p>

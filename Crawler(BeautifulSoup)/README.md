@@ -2,10 +2,10 @@
 
 <h3>Before processing:</h3>
 <p align="center">
-  <img src="https://github.com/LostWitness/DSPractice/blob/master/Crawler(BeautifulSoup)/002_pas.png?raw=true" width="250">
+  <img src="https://github.com/LostWitness/DSPractice/blob/master/Crawler(BeautifulSoup)/002_pas.png?raw=true" width="850">
 </p>
 
 <h3>After processing:</h3>
 <p align="center">
-  <img src="https://github.com/LostWitness/DSPractice/blob/master/Crawler(BeautifulSoup)/001_pas.png?raw=true" width="250">
+  <img src="https://github.com/LostWitness/DSPractice/blob/master/Crawler(BeautifulSoup)/001_pas.png?raw=true" width="850">
 </p>

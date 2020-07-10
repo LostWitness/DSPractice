@@ -10,7 +10,7 @@ We are going to use <a href="https://github.com/treselle-systems/customer_churn_
 <li>Feature engineering</li>
 <li>Investigating how the features affect Retention by using Logistic Regression</li>
 <li>Building a classification model with XGBoost</li><br>
-Libraries used: <i>pandas, numpy, sklearn, matplotlib, plotly</i>
+Libraries used: <i>pandas, numpy, sklearn, statsmodels, matplotlib, plotly</i>
 
 <h2>[Russian/Русский]</h2>
 <p align="justify">В данном проекте изучим вопрос удержания (и наоборот, оттока) наших клиентов.<br>
@@ -24,4 +24,4 @@ Libraries used: <i>pandas, numpy, sklearn, matplotlib, plotly</i>
 <li>Feature engineering (инжиниринг признаков)</li>
 <li>Investigating how the features affect Retention by using Logistic Regression (посмотрим, как воздействуют признаки на удержание с помощью логистической регрессии)</li>
 <li>Building a classification model with XGBoost (построим модель классфикации с помощью XGBoost)</li><br>
-Используемые баблиотеки: <i>pandas, numpy, sklearn, matplotlib, plotly</i>
+Используемые баблиотеки: <i>pandas, numpy, sklearn, statsmodels, matplotlib, plotly</i>

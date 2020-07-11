@@ -7,5 +7,4 @@ My work experience started a few years ago in <b>Business Intelligence</b> field
 I am fluent in <b>Russian</b> and proficient in <b>English</b>, with basic knowledge of <b>German</b>.
 
 Resources I personally use: <b>StackOverflow, Medium, TowardsDataScience, Kaggle, Official Documentations</b>.
-For any questions, suggestions or offerings, please reach me out by <b><a href=https://www.linkedin.com/in/andreylapikov/>LinkedIn</a></b> or <b><a href=https://www.twitter.com/AndrewLapikov>Twitter</a></b>.
-
+<br>For any questions, suggestions or offerings, please reach me out by <b><a href=https://www.linkedin.com/in/andreylapikov/>LinkedIn</a></b>, <b><a href=https://www.facebook.com/andrey.lapikov.92/>Facebook<a/></b> or <b><a href=https://www.twitter.com/AndrewLapikov>Twitter</a></b>.

@@ -5,7 +5,6 @@
 <b>ARPU = Revenue / Users</b><br>
 <b>All users are taken into account: both who pay and don't</b>.<br>
 ARPU is an indicator of the monetization efficiency of the project:<b>the higher it is, the more money produced from one user per time period</b>.<br>
-
 Example:<br>
 Let's say we have 1k (1000) users in total, and only 20 of them are actually paying. Total month income equals 2000 USD.<br>
 <b>ARPU by Month</b> = 2000/1000 = 2 USD (one active user brings us 2 USD per month in average).<br>

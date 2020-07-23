@@ -1,3 +1,4 @@
+<h1>ARPU metric analysis task | Анализ метрики ARPU</h1>
 <h2>[English/Английский]</h2>
 <p align="text-align:justify"> We are given information regarding particular business metric in a file <i>ARPU1819.csv</i> – <b>ARPU [Average Revenue Per User]</b> by 2018 and 2019 yy – years before and after implementation of a new tool in app respectively. The task is to carefully illustrate the variations in this indicator and make sure the functional performs as well as expected according to ARPU values. Both sets are independent from each other.<br></p>
 
@@ -18,7 +19,6 @@ A few curious facts:
 
 Libraries used: <i>pandas, numpy, plotly</i>
 
-<h1>ARPU metric analysis task | Анализ метрики ARPU</h1>
 <h2>[Russian/Русский]</h2>
 <p align="text-align:justify">В файле <i>ARPU1819.csv</i> имеется информация по бизнес метрике <b>ARPU [Average Revenue Per User]</b> за 2018 и 2019 гг – год перед добавлением нового функционала в приложение и год посде добавления. Важно корректно продемонстрировать изменения в этом показателе и по возможности удостовериться в хорошем результате функционала по значениям данной бизнес метрики. Выборки независимы друг от друга.<br></p>
 
